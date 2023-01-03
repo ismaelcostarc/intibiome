@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/intibiome/static/css/main.073c9b0a.css",
+    "main.js": "/intibiome/static/js/main.deca05ed.js",
+    "static/js/787.89b19894.chunk.js": "/intibiome/static/js/787.89b19894.chunk.js",
+    "static/media/logo.svg": "/intibiome/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/intibiome/index.html",
+    "main.073c9b0a.css.map": "/intibiome/static/css/main.073c9b0a.css.map",
+    "main.deca05ed.js.map": "/intibiome/static/js/main.deca05ed.js.map",
+    "787.89b19894.chunk.js.map": "/intibiome/static/js/787.89b19894.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.deca05ed.js"
+  ]
+}
