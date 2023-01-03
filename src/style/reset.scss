@@ -1,4 +1,10 @@
 /* YUI 3.5.0 reset.css (http://developer.yahoo.com/yui/3/cssreset/) - https://cssdeck.com/blog/ */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 html {
   color: #000;
   background: #fff;

@@ -7,8 +7,8 @@ import {
   Discoveries,
   Footer,
 } from "./components";
-import banner1Mobile from "./assets/banners/banner1Mobile.png";
-import banner2Mobile from "./assets/banners/banner2Mobile.png";
+import banner1Mobile from "./assets/img/banners/banner1Mobile.png";
+import banner2Mobile from "./assets/img/banners/banner2Mobile.png";
 
 function App() {
   return (

@@ -1,5 +1,5 @@
 import style from "./style.module.scss";
-import iconsMobile from '../../assets/icons/iconsMobile.png'
+import iconsMobile from '../../assets/img/icons/iconsMobile.png'
 
 const Presentation = () => (
   <section className={style.container}>
