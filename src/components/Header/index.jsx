@@ -1,13 +1,24 @@
 import style from "./style.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMagnifyingGlass, faBars } from "@fortawesome/free-solid-svg-icons";
+import {
+  faMagnifyingGlass,
+  faBars,
+  faXmark,
+} from "@fortawesome/free-solid-svg-icons";
 import headerImage from "../../assets/img/header/headerImage.png";
 
-const Header = () => {
+const Header = ({ isMenuOpened, setIsMenuOpened }) => {
   return (
     <header className={style.header}>
-      <button className={style.hamburguerButton}>
-        <FontAwesomeIcon icon={faBars} />
+      <button
+        className={style.hamburguerButton}
+        onClick={() => setIsMenuOpened((prevValue) => !prevValue)}
+      >
+        {isMenuOpened ? (
+          <FontAwesomeIcon icon={faXmark} />
+        ) : (
+          <FontAwesomeIcon icon={faBars} />
+        )}
       </button>
       <img src={headerImage} alt="Logo" />
       <div className={style.search}>

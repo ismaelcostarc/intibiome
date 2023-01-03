@@ -1,0 +1,10 @@
+.container {
+  background-color: var(--blue);
+  flex: 1;
+  padding: 40px 16px;
+
+  li {
+    text-align: left;
+    padding: 24px 15px;
+  }
+}
