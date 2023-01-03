@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/intibiome/static/css/main.073c9b0a.css",
-    "main.js": "/intibiome/static/js/main.deca05ed.js",
-    "static/js/787.89b19894.chunk.js": "/intibiome/static/js/787.89b19894.chunk.js",
-    "static/media/logo.svg": "/intibiome/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/intibiome/static/css/main.b5a225b0.css",
+    "main.js": "/intibiome/static/js/main.392077c4.js",
+    "static/media/banner1Mobile.png": "/intibiome/static/media/banner1Mobile.7a97f63832ac49c84608.png",
+    "static/media/picture2.png": "/intibiome/static/media/picture2.249cf1c01364fa50e207.png",
+    "static/media/banner2Mobile.png": "/intibiome/static/media/banner2Mobile.e0be686d53d8a2dec7e9.png",
+    "static/media/picture1.png": "/intibiome/static/media/picture1.1c352b0b498d989430eb.png",
+    "static/media/picture3.png": "/intibiome/static/media/picture3.c81b3c7801afbd3a8a44.png",
+    "static/media/product3.png": "/intibiome/static/media/product3.492d9415dd3f5b07999b.png",
+    "static/media/product1.png": "/intibiome/static/media/product1.9b5b8d4b9c7d9049b541.png",
+    "static/media/product2.png": "/intibiome/static/media/product2.81c183907495aba77587.png",
     "index.html": "/intibiome/index.html",
-    "main.073c9b0a.css.map": "/intibiome/static/css/main.073c9b0a.css.map",
-    "main.deca05ed.js.map": "/intibiome/static/js/main.deca05ed.js.map",
-    "787.89b19894.chunk.js.map": "/intibiome/static/js/787.89b19894.chunk.js.map"
+    "main.b5a225b0.css.map": "/intibiome/static/css/main.b5a225b0.css.map",
+    "main.392077c4.js.map": "/intibiome/static/js/main.392077c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.deca05ed.js"
+    "static/css/main.b5a225b0.css",
+    "static/js/main.392077c4.js"
   ]
 }
