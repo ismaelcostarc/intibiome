@@ -1,9 +1,28 @@
-import React from 'react'
+import style from "./style.module.scss";
+import icon from "../../assets/img/footer/icon.png";
 
 const Footer = () => {
   return (
-    <div>Footer</div>
-  )
-}
+    <footer className={style.container}>
+      <ul className="text text-6">
+        <li>contact us</li>
+        <li className={style.separator}>|</li>
+        <li>faq</li>
+        <li className={style.separator}>|</li>
+        <li>site map</li>
+        <li className={style.separator}>|</li>
+        <li>privacy policy</li>
+        <li className={style.separator}>|</li>
+        <li>cookies policy</li>
+        <li className={style.separator}>|</li>
+        <li>legal notice</li>
+      </ul>
 
-export default Footer
+      <img src={icon} alt="Icon" />
+
+      <div className="text text-7">U●labs</div>
+    </footer>
+  );
+};
+
+export default Footer;
