@@ -1,7 +1,7 @@
 import style from "./style.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMagnifyingGlass, faBars } from "@fortawesome/free-solid-svg-icons";
-import headerImageMobile from "../../assets/header/headerImageMobile.png";
+import headerImage from "../../assets/header/headerImage.png";
 
 const Header = () => {
   return (
@@ -9,8 +9,8 @@ const Header = () => {
       <button className={style.hamburguerButton}>
         <FontAwesomeIcon icon={faBars} />
       </button>
-      <img src={headerImageMobile} alt="Logo" />
-      <div>
+      <img src={headerImage} alt="Logo" />
+      <div className={style.search}>
         <FontAwesomeIcon icon={faMagnifyingGlass} />
       </div>
     </header>
