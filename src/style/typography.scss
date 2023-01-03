@@ -1,57 +1,44 @@
 @import url('https://fonts.cdnfonts.com/css/trebuchet-ms-2');
 
-.text-1 {
+.text {
+  text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-1 {
   font-weight: bold;
   font-size: 31px;
   color: #389CD6;
-  letter-spacing: 20px;
-  line-height: 50px;
 }
 
 .text-2 {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: normal;
   font-size: 16px;
   color: #7B7070;
-  letter-spacing: 20px;
-  line-height: 22px;
 }
 
 .text-3 {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: normal;
   font-size: 20px;
   color: #7B7070;
-  letter-spacing: 20px;
-  line-height: 28px;
 }
 
 .text-4 {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: bold;
   font-size: 25px;
   color: #ffffff;
-  letter-spacing: 20px;
-  line-height: 36px;
   text-transform: lowercase;
 }
 
 .text-5 {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: bold;
   font-size: 20px;
   color: #ffffff;
-  letter-spacing: 20px;
-  line-height: 28px;
   text-transform: lowercase;
 }
 
 .text-6 {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: bold;
   font-size: 16px;
   color: #ffffff;
-  letter-spacing: 20px;
-  line-height: 22px;
 }

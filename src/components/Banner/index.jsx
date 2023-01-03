@@ -1,7 +1,7 @@
-import React from "react";
+import style from './style.module.css';
 
 const Banner = ({ children }) => {
-  return <div>{children}</div>;
+  return <div className={style.banner}>{children}</div>;
 };
 
 export default Banner;
