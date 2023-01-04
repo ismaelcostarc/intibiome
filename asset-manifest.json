@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/intibiome/static/css/main.0183c3a6.css",
-    "main.js": "/intibiome/static/js/main.6b4ca71f.js",
+    "main.js": "/intibiome/static/js/main.af7d7686.js",
     "static/media/banner1Desktop.png": "/intibiome/static/media/banner1Desktop.6d695d3e60ac1aa59cc9.png",
     "static/media/banner1Mobile.png": "/intibiome/static/media/banner1Mobile.7a97f63832ac49c84608.png",
     "static/media/picture2.png": "/intibiome/static/media/picture2.249cf1c01364fa50e207.png",
@@ -15,10 +15,10 @@
     "static/media/headerImageDesktop.png": "/intibiome/static/media/headerImageDesktop.3eaf11d2170938c8d371.png",
     "index.html": "/intibiome/index.html",
     "main.0183c3a6.css.map": "/intibiome/static/css/main.0183c3a6.css.map",
-    "main.6b4ca71f.js.map": "/intibiome/static/js/main.6b4ca71f.js.map"
+    "main.af7d7686.js.map": "/intibiome/static/js/main.af7d7686.js.map"
   },
   "entrypoints": [
     "static/css/main.0183c3a6.css",
-    "static/js/main.6b4ca71f.js"
+    "static/js/main.af7d7686.js"
   ]
 }
