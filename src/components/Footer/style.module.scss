@@ -28,6 +28,7 @@
   }
 
   .iconsDesktop {
+    flex-direction: row-reverse;
     justify-content: space-around;
     width: 100%;
     height: 43px;
