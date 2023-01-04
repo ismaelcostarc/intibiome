@@ -1,7 +1,8 @@
 import style from "./style.module.scss";
-import iconsMobile from '../../assets/img/icons/iconsMobile.png'
+import iconsMobile from "../../assets/img/icons/iconsMobile.png";
+import iconsDesktop from "../../assets/img/icons/iconsDesktop.png";
 
-const Presentation = () => (
+const Presentation = ({ isMobile }) => (
   <section className={style.container}>
     <h1 className="text text-1">we're here to help</h1>
 
@@ -19,7 +20,7 @@ const Presentation = () => (
     </p>
 
     <div className={style.icons}>
-      <img src={iconsMobile} alt="icons" />
+      <img src={isMobile ? iconsMobile : iconsDesktop} alt="icons" />
     </div>
 
     <h1 className="text text-1">

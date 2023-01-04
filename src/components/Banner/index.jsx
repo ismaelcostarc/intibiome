@@ -1,6 +1,6 @@
 import style from './style.module.css';
 
-const Banner = ({ children, breakpoint }) => {
+const Banner = ({ children }) => {
   return <div className={style.banner}>{children}</div>;
 };
 
